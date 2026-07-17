@@ -1,0 +1,137 @@
+[
+  {
+    "CustomerID": 1,
+    "Age": 25,
+    "Gender": "Male",
+    "Income": 35000,
+    "Purchases": 12,
+    "PaymentMethod": "Credit Card",
+    "Churn": "No"
+  },
+  {
+    "CustomerID": 2,
+    "Age": 32,
+    "Gender": "Female",
+    "Income": 48000,
+    "Purchases": 8,
+    "PaymentMethod": "Debit Card",
+    "Churn": "Yes"
+  },
+  {
+    "CustomerID": 3,
+    "Age": 41,
+    "Gender": "Male",
+    "Income": 60000,
+    "Purchases": 20,
+    "PaymentMethod": "Online Wallet",
+    "Churn": "No"
+  },
+  {
+    "CustomerID": 4,
+    "Age": 29,
+    "Gender": "Female",
+    "Income": 42000,
+    "Purchases": 5,
+    "PaymentMethod": "Cash",
+    "Churn": "Yes"
+  },
+  {
+    "CustomerID": 5,
+    "Age": 36,
+    "Gender": "Male",
+    "Income": 55000,
+    "Purchases": 15,
+    "PaymentMethod": "Credit Card",
+    "Churn": "No"
+  },
+  {
+    "CustomerID": 6,
+    "Age": 22,
+    "Gender": "Female",
+    "Income": 30000,
+    "Purchases": 3,
+    "PaymentMethod": "Debit Card",
+    "Churn": "Yes"
+  } ,
+    {
+        "CustomerID": 7,
+        "Age": 45,
+        "Gender": "Male",
+        "Income": 70000,
+        "Purchases": 25,
+        "PaymentMethod": "Credit Card",
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 8,
+        "Age": 28,
+        "Gender": "Female",
+        "Income": 40000,
+        "Purchases": 10,
+        "PaymentMethod": "Online Wallet",
+        "Churn": "Yes"
+    },
+    {
+        "CustomerID": 9,
+        "Age": 31,
+        "Gender": "Male",
+        "Income": 52000,
+        "Purchases": 18,
+        "PaymentMethod": "Cash",
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 10,
+        "Age": 27,
+        "Gender": "Female",
+        "Income": 45000,
+        "Purchases": 12,
+        "PaymentMethod": "Credit Card",
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 11,
+        "Age": 34,
+        "Gender": "Male",
+        "Income": 58000,
+        "Purchases": 22,
+        "PaymentMethod": "Debit Card",
+        "Churn": "Yes"
+    },
+    {
+        "CustomerID": 12,
+        "Age": 30,
+        "Gender": "Female",
+        "Income": 47000,    
+        "Purchases": 14,
+        "PaymentMethod": "Online Wallet",
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 13,
+        "Age": 26,
+        "Gender": "Male",
+        "Income": 36000,
+        "Purchases": 9, 
+        "PaymentMethod": "Cash",
+        "Churn": "Yes"  
+    },
+    {
+        "CustomerID": 14,
+        "Age": 38,
+        "Gender": "Female",
+        "Income": 52000,
+        "Purchases": 16,
+        "PaymentMethod": "Credit Card",
+        "Churn": "No"
+    },
+    {
+        "CustomerID": 15,
+        "Age": 29,
+        "Gender": "Male",
+        "Income": 48000,
+        "Purchases": 11,
+        "PaymentMethod": "Debit Card",
+        "Churn": "Yes"
+    }     
+]
