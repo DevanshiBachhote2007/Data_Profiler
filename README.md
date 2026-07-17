@@ -17,13 +17,12 @@
 
 <p>
   <a href="https://docs.google.com/document/d/1SrnqTEdiC63noz9Eo2m5SOR3euhITHFPNo6gUrcE3lg/edit?tab=t.0"><img src="https://img.shields.io/badge/❓_Question-Problem_Statement-blue?style=for-the-badge"></a>
-  <a href="./Customer_Purchase_Behavior.ipynb"><img src="https://img.shields.io/badge/📓_Notebook-Open_in_Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-  <a href="./docs/Theory.pdf"><img src="https://img.shields.io/badge/📘_Theory-Read_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset"><img src="https://img.shields.io/badge/📊_Dataset-shopping__trends.csv-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://github.com/DevanshiBachhote2007/Data_Profiler/blob/main/Data_Profiler/Customer_Purchase_Behavior.ipynb"><img src="https://img.shields.io/badge/📓_Notebook-Open_in_Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+  <a href="https://github.com/DevanshiBachhote2007/Data_Profiler/blob/main/Data_Profiler/Theory%20Questions%20For%20Data%20Profiling.pdf"><img src="https://img.shields.io/badge/📘_Theory-Read_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://github.com/DevanshiBachhote2007/Data_Profiler/tree/main/Data_Profiler/Data"><img src="https://img.shields.io/badge/📊_Dataset-shopping__trends.csv-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="#-video-explanation"><img src="https://img.shields.io/badge/🎥_Video-Watch_Explanation-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-> ⚠️ The **Theory PDF** and **Video Explanation** buttons above point to placeholder locations (`docs/Theory.pdf` and the link in the Video section). Upload your PDF to a `docs/` folder and drop your video link in, then these buttons will work out of the box.
 
 ---
 
@@ -82,7 +81,7 @@ Raw Data (CSV + JSON + SQL + API)
      ▼
 ┌─────────────────────────────────────────────────────────┐
 │  PART B — DATA ACQUISITION                               │
-│  CSV → JSON → SQLite → REST API  →  merged_df             │
+│  CSV → JSON → SQLite → REST API  →  merged_df            │
 └─────────────────────────────────────────────────────────┘
      │
      ▼
@@ -114,7 +113,7 @@ Raw Data (CSV + JSON + SQL + API)
 | **Rows** | 3,900 customer records |
 | **Columns** | 19 (growing to 27 after merging JSON/SQL/API sources) |
 | **Target concept** | Customer purchase behavior / churn risk |
-| **Source** | [Customer Shopping Trends Dataset — Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset) |
+| **Source** | Customer Shopping Trends Dataset — Kaggle |
 
 ### Feature Categories
 
