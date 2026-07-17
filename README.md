@@ -16,7 +16,7 @@
 ## 🔘 Quick Links
 
 <p>
-  <a href="#-problem-statement"><img src="https://img.shields.io/badge/❓_Question-Problem_Statement-blue?style=for-the-badge"></a>
+  <a href="https://docs.google.com/document/d/1SrnqTEdiC63noz9Eo2m5SOR3euhITHFPNo6gUrcE3lg/edit?tab=t.0"><img src="https://img.shields.io/badge/❓_Question-Problem_Statement-blue?style=for-the-badge"></a>
   <a href="./Customer_Purchase_Behavior.ipynb"><img src="https://img.shields.io/badge/📓_Notebook-Open_in_Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
   <a href="./docs/Theory.pdf"><img src="https://img.shields.io/badge/📘_Theory-Read_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
   <a href="https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset"><img src="https://img.shields.io/badge/📊_Dataset-shopping__trends.csv-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
