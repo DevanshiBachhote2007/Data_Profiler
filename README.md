@@ -548,7 +548,7 @@ Open the generated HTML file locally in your browser after running Part E of the
 
 ## 🎥 Video Explanation
 
-📺`[Video Explaination](https://drive.google.com/file/d/1NDfC25Zm8Z2kJ2hLFD7XL7vyTIcoEB9m/view?usp=sharing)`
+📺 [Video Explaination](https://drive.google.com/file/d/1NDfC25Zm8Z2kJ2hLFD7XL7vyTIcoEB9m/view?usp=sharing)
 
 A short screen-recording walking through the notebook — data merging, cleaning decisions, EDA charts, and the profiling report — makes this project far easier for reviewers to evaluate quickly.
 
